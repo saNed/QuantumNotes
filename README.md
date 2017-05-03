@@ -1,7 +1,11 @@
 # QuantumNotes
 Lecture notes for Scott Aaronson's [CS378 Quantum Information Science](http://www.scottaaronson.com/cs378/) at UT Austin, Spring 2017
 
+[**FULL PDF OF NOTES**](https://github.com/saNed/QuantumNotes/blob/master/QuantumNotes.pdf)
 
+Find an error? Please let me know at the source [Google Doc](https://docs.google.com/document/d/16uIsv5cyX4O-9rnPGpdRlh4j2Thb69z-IUBYHsfWXzw/edit#).
+
+---
 
 #### [Lecture 1 (January 17)](https://github.com/saNed/QuantumNotes/blob/master/IndividualLectures/Lecture_1.pdf)
 
