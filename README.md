@@ -85,3 +85,17 @@ The CHSH Game can be applied to **Generating Guaranteed Random Numbers**, and ma
 #### [Lecture 16 (March 21)](https://github.com/saNed/QuantumNotes/blob/master/IndividualLectures/Lecture_16.pdf)
 
 The roles of interference and entanglement in quantum computing lead us to cover the construction of both classical and quantum **Universal Gate Sets**. We discuss **Quantum Complexity** and see our first quantum algorithm, **Deutsch’s Algorithm**.
+
+#### [Lecture 17 (March 23)](https://github.com/saNed/QuantumNotes/blob/master/IndividualLectures/Lecture_17.pdf)
+
+We finish our discussion of Universal Gate Sets and the usage of black-box functions, which leads us to **Uncomputing**. Revisiting Deutsch’s Algorithm, we see it’s generalization the **Deutsch-Jozsa Algorithm**, as well as an introduction to the **Bernstein-Vazirani Problem**.
+
+#### [Lecture 28 (May 2)](https://github.com/saNed/QuantumNotes/blob/master/IndividualLectures/Lecture_28.pdf)
+
+Further discussion of the reliability of qubits leads us to **Stabilizer Sets** and their compact representations through **Generator Sets** of **Pauli Matrices**. The **Gottesman-Knill Theorem** explains why stabilizer sets aren’t universal, and leads to the use of **Tableau Representation**. 
+
+#### [Lecture 29 (May 4)](https://github.com/saNed/QuantumNotes/blob/master/IndividualLectures/Lecture_29.pdf)
+
+Quantum error correction codes with **Transversality** are prefered.
+
+Practical implementations of of quantum computing are discussed, including the important speedups it could provide, leading to a discussion of the **HHL Theorem**. **DiVincenzo Criteria** could be satisfied with **Trapped Ions** or **Superconducting Qubits**, as well as **Photonics** (bringing us to the **KLM Theorem** and **Boson Sampling**) or **Non-abelian Anyons**.

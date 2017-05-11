@@ -4,7 +4,7 @@ from pyPdf import PdfFileWriter, PdfFileReader
 
 input1 = PdfFileReader(file("QuantumNotes.pdf", "rb"))
 
-lec_first_page = [4,6,10,14,18,23,28,32,37,40,45,49,53,58,64,68,72]
+lec_first_page = [4,6,10,14,18,23,28,32,37,40,45,49,53,58,64,68,72,77,84,90]
 
 zero_indexed = [l-1 for l in lec_first_page]
 
